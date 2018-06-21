@@ -9,6 +9,7 @@ A boilerplate for Bootstrapping AR experiences with Three.ar.js
 * src/Manager/Renderer - class that sets up the renderer, VrDisplay and calls the update loop
 * src/Entities - Directory to store the code for the entities that get intialized into the scene
 * src/Main.js - The main js file that gets served by the webpack server
+* src/Utils - Utilities and other helpers for the project
 
 ### Getting Started
 
